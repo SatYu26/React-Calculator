@@ -1,11 +1,8 @@
 import React from "react";
+import { Container } from "./Styled/Styled.js";
 
 const Calculator = () => {
-  return (
-    <div>
-      <p>Test Calculator</p>
-    </div>
-  );
+  return <Container />;
 };
 
 export default Calculator;
